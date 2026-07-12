@@ -70,7 +70,7 @@ Aqui estão algumas das tecnologias que utilizo e venho estudando nos meus proje
 ## Estatistícas do GitHub:
 <picture>
   <source
-      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+      srcset="https://github-stats-extended.vercel.app/api?username=FRafaelLopes&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true" /> <!-- light mode -->
+  <img src="https://github-stats-extended.vercel.app/api?username=FRafaelLopes&show_icons=true" /> <!-- light mode -->
