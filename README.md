@@ -64,7 +64,7 @@ Sou estudante de Ciência da Computação e apaixonado por tecnologia. Atualment
 
 Aqui estão algumas das tecnologias que utilizo e venho estudando nos meus projetos:
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs,typescript)](https://skillicons.dev)
 
 ---
 ## Estatistícas do GitHub:
