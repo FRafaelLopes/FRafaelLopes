@@ -74,11 +74,3 @@ Aqui estão algumas das tecnologias que utilizo e venho estudando nos meus proje
       media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true" /> <!-- light mode -->
-
----
-## Línguagens mais usadas:
-
-</a>
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
