@@ -1,10 +1,6 @@
 ### Olá! Eu sou o Rafael Lopes 👋🏼
 
-<p align="left">
-  <a href="COLE_O_LINK_DO_SEU_PERFIL_DO_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
 
 Sou estudante de Ciência da Computação e apaixonado por tecnologia. Atualmente, estou focado em aprender **desenvolvimento de software, arquitetura de sistemas e programação com Python**, além de estar explorando ativamente o **desenvolvimento web**. Estou sempre buscando construir projetos práticos e evoluir minhas habilidades técnicas.
 
@@ -53,3 +49,6 @@ Sou estudante de Ciência da Computação e apaixonado por tecnologia. Atualment
       media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-stats-extended.vercel.app/api?username=FRafaelLopes&show_icons=true" /> <!-- light mode -->
+
+  ##### Visitas neste perfil:
+ ![Contador de Visitas](https://web-production-profile-views.up.railway.app/count.svg?user=FRafaelLopes&color=green&width=140&height=28)
