@@ -45,6 +45,3 @@ Sou estudante de Ciência da Computação e apaixonado por tecnologia. Atualment
       media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-stats-extended.vercel.app/api?username=FRafaelLopes&show_icons=true" /> <!-- light mode -->
-
-  ##### Visitas neste perfil:
- ![Contador de Visitas](https://web-production-profile-views.up.railway.app/count.svg?user=FRafaelLopes&color=green&width=140&height=28)
