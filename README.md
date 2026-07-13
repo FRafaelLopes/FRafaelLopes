@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Rafael Lopes 👋🏼
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
-
 Sou estudante de Ciência da Computação e apaixonado por tecnologia. Atualmente, estou focado em aprender **desenvolvimento de software, arquitetura de sistemas e programação com Python**, além de estar explorando ativamente o **desenvolvimento web**. Estou sempre buscando construir projetos práticos e evoluir minhas habilidades técnicas.
 
 ---
