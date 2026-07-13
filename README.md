@@ -27,7 +27,7 @@ Sou estudante de Ciência da Computação e apaixonado por tecnologia. Atualment
 
 ## 💻 Tecnologias 
 
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,js,html,css,typescript,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,html,css,typescript,c)](https://skillicons.dev)
 
 ## 🛠️ Ferramentas
 
