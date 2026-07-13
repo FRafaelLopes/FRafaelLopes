@@ -27,15 +27,11 @@ Sou estudante de Ciência da Computação e apaixonado por tecnologia. Atualment
 
 ## 💻 Tecnologias 
 
-### Aqui estão algumas das tecnologias que utilizo e venho estudando nos meus projetos:
-
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs,typescript,c)](https://skillicons.dev)
 
 ## 🛠️ Ferramentas
 
-### Aqui estão as ferrementas que eu uso no meu dia a dia com os meus projetos:
-
-[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,git,github,vercel,figma)](https://skillicons.dev)
 
 ---
 
