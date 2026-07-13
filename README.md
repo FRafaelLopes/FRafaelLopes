@@ -35,7 +35,12 @@ Sou estudante de Ciência da Computação e apaixonado por tecnologia. Atualment
 
 ---
 
-<img src="https://raw.githubusercontent.com/FRafaelLopes/FRafaelLopes/output/snake.svg" alt="Snake animation" />
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FRafaelLopes/FRafaelLopes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FRafaelLopes/FRafaelLopes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FRafaelLopes/FRafaelLopes/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 ## Estatistícas do GitHub:
