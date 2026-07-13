@@ -36,6 +36,10 @@ Aqui estão algumas das tecnologias que utilizo e venho estudando nos meus proje
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs,typescript)](https://skillicons.dev)
 
 ---
+
+<img src="https://raw.githubusercontent.com/FRafaelLopes/FRafaelLopes/output/snake.svg" alt="Snake animation" />
+
+---
 ## Estatistícas do GitHub:
 <picture>
   <source
