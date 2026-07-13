@@ -43,3 +43,6 @@ Aqui estão algumas das tecnologias que utilizo e venho estudando nos meus proje
       media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-stats-extended.vercel.app/api?username=FRafaelLopes&show_icons=true" /> <!-- light mode -->
+
+  
+![](https://github-readme-stats.vercel.app/api?username=FRafaelLopes&theme=pacman&hide_border=true&show_icons=true)
