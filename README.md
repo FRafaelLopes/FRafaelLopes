@@ -14,7 +14,7 @@ I am a Computer Science student passionate about technology. Currently, I'm focu
       <img src="https://img.shields.io/badge/IFCE-2F9E41?style=for-the-badge&logo=instituto-federal&logoColor=white" alt="IFCE">
     </td>
     <td>
-      <strong>Federal Institute of Education, Science and Technology of Ceará</strong><br>
+      <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará</strong><br>
       Bachelor's Degree in Computer Science<br>
       <sub>2026 - Present</sub>
     </td>
