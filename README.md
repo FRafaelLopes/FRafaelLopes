@@ -1,33 +1,33 @@
-### Olá! Eu sou o Rafael Lopes 👋🏼
+### Hi! I'm Rafael Lopes 👋🏼
 
-Sou estudante de Ciência da Computação e apaixonado por tecnologia. Atualmente, estou focado em aprender **desenvolvimento de software, arquitetura de sistemas e programação com Python**, além de estar explorando ativamente o **desenvolvimento web**. Estou sempre buscando construir projetos práticos e evoluir minhas habilidades técnicas.
+I am a Computer Science student passionate about technology. Currently, I'm focused on learning **software development, systems architecture, and Python programming**, while also actively exploring **web development**. I am always looking to build practical projects and improve my technical skills.
 
 ---
 
-## 🎓 Educação
+## 🎓 Education
 
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Ciência_da_Computação-B31B1B?style=for-the-badge&logo=computer-science&logoColor=white" alt="Ciência da Computação">
+      <img src="https://img.shields.io/badge/Computer_Science-B31B1B?style=for-the-badge&logo=computer-science&logoColor=white" alt="Computer Science">
       <br><br>
       <img src="https://img.shields.io/badge/IFCE-2F9E41?style=for-the-badge&logo=instituto-federal&logoColor=white" alt="IFCE">
     </td>
     <td>
-      <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará</strong><br>
-      Graduação em Bacharelado em Ciência da Computação<br>
-      <sub>2026 - Presente</sub>
+      <strong>Federal Institute of Education, Science and Technology of Ceará</strong><br>
+      Bachelor's Degree in Computer Science<br>
+      <sub>2026 - Present</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💻 Tecnologias 
+## 💻 Technologies 
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,html,css,typescript,c)](https://skillicons.dev)
 
-## 🛠️ Ferramentas
+## 🛠️ Tools
 
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,git,github,vercel,figma)](https://skillicons.dev)
 
@@ -41,10 +41,11 @@ Sou estudante de Ciência da Computação e apaixonado por tecnologia. Atualment
 </picture>
 
 ---
-## Estatistícas do GitHub:
+## GitHub Statistics:
 <picture>
   <source
       srcset="https://github-stats-extended.vercel.app/api?username=FRafaelLopes&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-stats-extended.vercel.app/api?username=FRafaelLopes&show_icons=true" /> <!-- light mode -->
+</picture>
